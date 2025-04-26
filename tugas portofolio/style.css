@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Rajdhani:wght@400;600&display=swap');
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Audiowide', sans-serif;
+  background: linear-gradient(to bottom, #111, #1e1e1e);
+  color: #eee;
+  text-align: center;
+}
+
+
+header {
+  background-color: #0f0f0f;
+  padding: 60px 20px;
+  border-bottom: 2px solid #333;
+}
+
+header h1 {
+  font-family: '', sans-serif;
+  font-size: 3rem;
+  color: #00ffe5; 
+  margin: 0;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: #aaa;
+  margin-top: 10px;
+}
+
+
+section.about {
+  padding: 50px 20px;
+  background: rgba(0, 0, 0, 0.7);
+  margin-top: 30px;
+}
+
+section.about h2 {
+  font-family: 'Audiowide', sans-serif;
+  font-size: 2.5rem;
+  color: #00ffe5;
+  border-bottom: 2px solid #444;
+  padding-bottom: 10px;
+}
+
+section.about p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #ccc;
+  margin-top: 20px;
+  text-align: justify;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+
+body {
+  font-family: 'Audiowide', sans-serif;
+}
+
+.special-font {
+  font-family: 'Audiowide', serif;
+  font-weight: 700;
+  color: #f47600; 
+  text-transform: uppercase; 
+}
+audio {
+    width: 100%;
+    margin-top: 20px;
+    filter: drop-shadow(0 0 5px #00ffd9);
+  }
+  
